@@ -15,42 +15,34 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\kathe\Documents\GitHub\PaginaWebcurso\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/MiProyecto/MiProyecto.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlQcm95ZWN0b1xNaVByb3llY3RvLmNzaHRtbA==
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/Productos/Productos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXFByb2R1Y3Rvcy5jc2h0bWw=
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/Roles/Roles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNcUm9sZXMuY3NodG1s
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/Usuarios/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcVXN1YXJpb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/Usuarios/Usuarios.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcVXN1YXJpb3MuY3NodG1s
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-esyc55q667
+[C:/Users/kathe/Documents/GitHub/PaginaWebcurso/Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

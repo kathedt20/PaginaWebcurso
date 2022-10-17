@@ -1,0 +1,12 @@
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\bin\Debug\net6.0\WebData.deps.json
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\bin\Debug\net6.0\WebData.dll
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\bin\Debug\net6.0\WebData.pdb
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\WebData.csproj.AssemblyReference.cache
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\WebData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\WebData.AssemblyInfoInputs.cache
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\WebData.AssemblyInfo.cs
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\WebData.csproj.CoreCompileInputs.cache
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\WebData.dll
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\refint\WebData.dll
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\WebData.pdb
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\WebData\obj\Debug\net6.0\ref\WebData.dll

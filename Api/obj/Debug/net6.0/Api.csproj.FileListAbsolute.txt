@@ -25,3 +25,5 @@ C:\Users\kathe\Documents\GitHub\PaginaWebcurso\Api\obj\Debug\net6.0\refint\Api.d
 C:\Users\kathe\Documents\GitHub\PaginaWebcurso\Api\obj\Debug\net6.0\Api.pdb
 C:\Users\kathe\Documents\GitHub\PaginaWebcurso\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
 C:\Users\kathe\Documents\GitHub\PaginaWebcurso\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\Api\bin\Debug\net6.0\WebData.dll
+C:\Users\kathe\Documents\GitHub\PaginaWebcurso\Api\bin\Debug\net6.0\WebData.pdb

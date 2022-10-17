@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QLOTB5DyC3Ky7dDYmf0JXFH1LFAxvn3KHw8OIPCd2sU=",
+  "Hash": "IXekBkRvIDZutMrAFRIwuhMnQ0SS5h91DS3JqGnb/DQ=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\css\\Login\\Login.css",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "css/Login/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login\\Login.css"
     },
     {
       "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\css\\site.css",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\js\\Usuarios\\Usuarios.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "js/Usuarios/Usuarios.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Usuarios\\Usuarios.js"
     },
     {
       "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -867,6 +901,40 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\lib\\datatables-bootstrap5\\dist\\css\\dataTables.bootstrap5.min.css",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "lib/datatables-bootstrap5/dist/css/dataTables.bootstrap5.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\datatables-bootstrap5\\dist\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\lib\\datatables-bootstrap5\\dist\\js\\dataTables.bootstrap5.min.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "lib/datatables-bootstrap5/dist/js/dataTables.bootstrap5.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\datatables-bootstrap5\\dist\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
       "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
@@ -933,6 +1001,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\lib\\jquery-datatables\\dist\\jquery.dataTables.min.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "lib/jquery-datatables/dist/jquery.dataTables.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-datatables\\dist\\jquery.dataTables.min.js"
     },
     {
       "Identity": "C:\\Users\\kathe\\Documents\\GitHub\\PaginaWebcurso\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
